@@ -8,7 +8,7 @@ To create a compelling data story using Power BI and visualize business insights
 ## 📁 Files:
 - Superstore.csv
 - Dashboard.pbix
-- Dashboard_Screenshots.pdf
+- Report.png
 
 ## 📌 Key Insights:
 - Region-wise performance shows highest sales in the West.
@@ -24,5 +24,3 @@ To create a compelling data story using Power BI and visualize business insights
 - Monthly trend analysis
 - Regional performance map
 
-## 🔗 Submission Link:
-[Paste the form submission link here after submitting]
